@@ -1,0 +1,28 @@
+body {
+  background-color: #EEEEEE;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  width: 70px;
+
+}
+
+h1 {
+  color: #66BFBF;
+  font-style: italic;
+  font-size: 35px;
+  transition-property: font-size;
+  transition-duration: 2s;
+}
+
+h3 {
+  color: #66BFBF;
+  font-style: italic;
+  font-size: 25px;
+  transition-property: font-size;
+  transition-duration: 4s;
+}
